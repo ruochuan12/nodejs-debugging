@@ -1,4 +1,4 @@
-# 新手向：前端程序员必学调试代码基本技能
+# 新手向：前端程序员必学基本技能——调试JS代码
 
 ## 前言
 
@@ -33,7 +33,7 @@
 
 ![auto attach](./images/auto-attach.png)
 
-![默认智能](./images/auto-attach.png)
+![默认智能](./images/smart.png)
 
 更多可以查看官方文档：[nodejs-debugging](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
 
