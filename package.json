@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-debugging",
+  "version": "1.0.0",
+  "description": "nodejs-debugging",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
+  },
+  "bin": {
+    "ruochuan": "./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxchuan12/nodejs-debugging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxchuan12/nodejs-debugging/issues"
+  },
+  "homepage": "https://github.com/lxchuan12/nodejs-debugging#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
